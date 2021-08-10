@@ -24,7 +24,7 @@ Skills: 😅😅
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/nelson_1380)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdesign-alireza-Rahimi&show_icons=true)  
+ 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webdesign-alireza-Rahimi)  
 
